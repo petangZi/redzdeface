@@ -9,9 +9,8 @@ deface script *test*
 
 ## 📦 Teknologi yang Digunakan
 
-- Bahasa: `Python / JavaScript / PHP / Lua / lainnya`
-- Framework: `React / Express / Laravel / lainnya`
-- Library: `Axios / TailwindCSS / lainnya`
+- Bahasa: `/lainnya`
+
 
 ## 🔧 Instalasi
 
