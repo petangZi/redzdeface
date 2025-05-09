@@ -1,0 +1,2 @@
+# redzdeface
+deface script *test*
